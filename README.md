@@ -14,7 +14,7 @@ And we can do lists too. Let's try that:
  
 Another Lists:
  
-1.sdg
-2.sdry
-3.stryw
+1. sdg
+2. sdry
+3. stryw
  
